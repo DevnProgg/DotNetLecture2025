@@ -30,8 +30,8 @@ class Program
         {
             humidity[i] = (float)(random.NextDouble() * 100);
         }
-
-        //CREATE MENU FOR RUNNING EACH ASPECT OF THE APPLICATION
+        // Main menu loop
+        Console.WriteLine("Welcome to the Sensor Data Management System!");
         while (true)
         {
             Console.WriteLine("\nSensor Data Management System");
@@ -120,8 +120,8 @@ public class Sensors
                 var location = sensorLocations[i];
 
                 // Retrieve temperature and humidity readings
-                double tempReading = temperatures[ i]; // Implicit conversion
-                decimal humidityReading = (decimal)humidity[ i]; // Explicit cast
+                double tempReading = temperatures[i]; // Implicit conversion
+                decimal humidityReading = (decimal)humidity[i]; // Explicit cast
 
                 // Print report using string interpolation
                 Console.WriteLine(
