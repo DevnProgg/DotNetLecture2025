@@ -1,0 +1,15 @@
+/workspaces/DotNetLecture2025/challengOne/bin/Debug/net8.0/challengOne
+/workspaces/DotNetLecture2025/challengOne/bin/Debug/net8.0/challengOne.deps.json
+/workspaces/DotNetLecture2025/challengOne/bin/Debug/net8.0/challengOne.runtimeconfig.json
+/workspaces/DotNetLecture2025/challengOne/bin/Debug/net8.0/challengOne.dll
+/workspaces/DotNetLecture2025/challengOne/bin/Debug/net8.0/challengOne.pdb
+/workspaces/DotNetLecture2025/challengOne/obj/Debug/net8.0/challengOne.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DotNetLecture2025/challengOne/obj/Debug/net8.0/challengOne.AssemblyInfoInputs.cache
+/workspaces/DotNetLecture2025/challengOne/obj/Debug/net8.0/challengOne.AssemblyInfo.cs
+/workspaces/DotNetLecture2025/challengOne/obj/Debug/net8.0/challengOne.csproj.CoreCompileInputs.cache
+/workspaces/DotNetLecture2025/challengOne/obj/Debug/net8.0/challengOne.sourcelink.json
+/workspaces/DotNetLecture2025/challengOne/obj/Debug/net8.0/challengOne.dll
+/workspaces/DotNetLecture2025/challengOne/obj/Debug/net8.0/refint/challengOne.dll
+/workspaces/DotNetLecture2025/challengOne/obj/Debug/net8.0/challengOne.pdb
+/workspaces/DotNetLecture2025/challengOne/obj/Debug/net8.0/challengOne.genruntimeconfig.cache
+/workspaces/DotNetLecture2025/challengOne/obj/Debug/net8.0/ref/challengOne.dll

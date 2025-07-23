@@ -1,0 +1,15 @@
+/workspaces/DotNetLecture2025/scems/bin/Debug/net8.0/scems
+/workspaces/DotNetLecture2025/scems/bin/Debug/net8.0/scems.deps.json
+/workspaces/DotNetLecture2025/scems/bin/Debug/net8.0/scems.runtimeconfig.json
+/workspaces/DotNetLecture2025/scems/bin/Debug/net8.0/scems.dll
+/workspaces/DotNetLecture2025/scems/bin/Debug/net8.0/scems.pdb
+/workspaces/DotNetLecture2025/scems/obj/Debug/net8.0/scems.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DotNetLecture2025/scems/obj/Debug/net8.0/scems.AssemblyInfoInputs.cache
+/workspaces/DotNetLecture2025/scems/obj/Debug/net8.0/scems.AssemblyInfo.cs
+/workspaces/DotNetLecture2025/scems/obj/Debug/net8.0/scems.csproj.CoreCompileInputs.cache
+/workspaces/DotNetLecture2025/scems/obj/Debug/net8.0/scems.sourcelink.json
+/workspaces/DotNetLecture2025/scems/obj/Debug/net8.0/scems.dll
+/workspaces/DotNetLecture2025/scems/obj/Debug/net8.0/refint/scems.dll
+/workspaces/DotNetLecture2025/scems/obj/Debug/net8.0/scems.pdb
+/workspaces/DotNetLecture2025/scems/obj/Debug/net8.0/scems.genruntimeconfig.cache
+/workspaces/DotNetLecture2025/scems/obj/Debug/net8.0/ref/scems.dll
