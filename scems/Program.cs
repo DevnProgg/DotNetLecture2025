@@ -31,7 +31,7 @@ class Program
             humidity[i] = (float)(random.NextDouble() * 100);
         }
 
-    //CREATE MENU FOR RUNNING EACH ASPECT OF THE APPLICATION
+        //CREATE MENU FOR RUNNING EACH ASPECT OF THE APPLICATION
         while (true)
         {
             Console.WriteLine("\nSensor Data Management System");
@@ -66,6 +66,11 @@ class Program
                     Console.WriteLine("Invalid choice, please try again.");
                     break;
             }
+
+            Console.WriteLine("Press any key to continue...");
+            Console.ReadKey();
+            Console.Clear();
+            
         }
 
     }
