@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("challengOne")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+856ca87cf90e38f9a8d10389487c09ae1aa4602b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bb4fa644e4c7d2d3e43536c21becbaefc76f9ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("challengOne")]
 [assembly: System.Reflection.AssemblyTitleAttribute("challengOne")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -31,7 +31,7 @@ class Program
             humidity[i] = (float)(random.NextDouble() * 100);
         }
         // Main menu loop
-        Console.WriteLine("Welcome to the Sensor Data Management System!");
+        Console.WriteLine("Welcome to the Smart Campus Environmental Monitoring System!");
         while (true)
         {
             Console.WriteLine("\nSensor Data Management System");
